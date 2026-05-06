@@ -1,15 +1,10 @@
 # Volatility-Adjusted Signal Learning and Rolling IC Feature Selection
-
 ---
-
 ## A Refined Financial Machine Learning Framework for Next-Day SPY Trading Decisions
 ---
-
 ### STAT GR5243 — Applied Data Science Project, Columbia University  
 *May 2026*
-
 ---
-
 ## Overview
 
 This project develops a machine learning pipeline for predicting **next-day Long / Flat / Short trading signals for SPY**, the ETF tracking the S&P 500 Index. Instead of forecasting the exact next-day price level, the project frames return prediction as a practical three-class trading decision problem: go long, stay flat, or go short.
