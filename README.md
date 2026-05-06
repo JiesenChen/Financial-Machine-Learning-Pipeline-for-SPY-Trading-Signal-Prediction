@@ -1,8 +1,6 @@
 # Volatility-Adjusted Signal Learning and Rolling IC Feature Selection
----
 ## A Refined Financial Machine Learning Framework for Next-Day SPY Trading Decisions
----
-### STAT GR5243 — Applied Data Science Project, Columbia University  
+#### STAT GR5243 — Applied Data Science Project, Columbia University  
 *May 2026*
 ---
 ## Overview
